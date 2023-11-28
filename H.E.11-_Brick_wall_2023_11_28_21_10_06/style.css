@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+
+html, body {
+  margin: auto;
+  padding: 10px;
+  background-color: #bdd8de;
+  background-image: url('background/Clouds.png');
+  opacity: 1;
+  background-size: 800px 800px;
+  background-size: cover, contain;
+  background-position: center, right bottom;
+  background-repeat: no-repeat, no-repeat;
+  color: #8f060f;
+  font-family: 'UnifrakturMaguntia', cursive;
+}
+canvas {
+  display: block;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+button {
+  display: inline;
+  margin: auto;
+  margin-left: 7px;
+  margin-right: 7px;
+  padding: 10px;
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 20px;
+  color: #f7cb07;
+  background-color: #4594d1;
+  border-color: none;
+  border-style: hidden;
+  
+  
+}
+
+#button-holder {
+  margin: auto;
+  text-align: center;
+  
+  
+}
+h1 {
+  font-family: 'UnifrakturMaguntia', cursive;
+  font-size: 90px;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 10px;
+}
+h2 {
+  font-family: 'UnifrakturMaguntia', cursive;
+  font-size: 45px;
+  margin: auto;
+  text-align: left;
+  padding-bottom: 10px;
+}
+p {
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 33px;
+  margin: auto;
+  text-align: center;
+  color: #f7cb07;
+  padding-bottom: 10px;
+}
+p2 {
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 33px;
+  margin: 30px;
+  text-align: left;
+  color: #f7cb07;
+  padding-bottom: 50px;
+}
